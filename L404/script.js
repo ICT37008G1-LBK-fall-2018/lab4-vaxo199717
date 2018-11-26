@@ -57,11 +57,6 @@ let student = [
         
     }
 ];
-
-
-
-
-
 let result = nameFreq(student);
 
 
